@@ -1,0 +1,11 @@
+{
+  "name": "four-robots",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nicholasmacedoo/four-robots.git",
+  "author": "nicholasmacedoo <nicholasmacedoo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
